@@ -5,6 +5,7 @@ description: Lecture slides on controller training and labor issues, air traffic
   technology transitions, unions, and contracts.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-72-air-traffic-control-fall-2006/a94235458393be579d2da2a03bfb05b6_lec12.pdf
 file_type: application/pdf
+parent_uid: 2ae02db3-1bd3-5af1-2683-31807e070124
 resourcetype: Document
 title: lec12.pdf
 uid: a9423545-8393-be57-9d2d-a2a03bfb05b6
